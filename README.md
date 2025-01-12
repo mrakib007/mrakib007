@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**mrakib007/mrakib007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m currently working as a **Software Engineer** at [BacBon Limited](https://bacbonltd.com).
+- 💻 I specialize in **JavaScript**, building interactive and user-friendly applications.
+- 🌱 I’m currently sharpening my skills in **Data Structures and Algorithms (DSA)**, using **C++**, and solving problems on LeetCode.
+- 👨‍💻 I have 1.6 years of professional experience and enjoy learning and growing as a developer.
+- 📚 Passionate about coding, learning new technologies, and contributing to open-source projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills and Tools
+- **Languages**: JavaScript (ES6+), C++, HTML5, CSS3
+- **Frontend Frameworks**: React.js, Tailwind CSS
+- **Tools & Platforms**: Git, GitHub, VS Code, Figma
+- **Others**: REST APIs, Responsive Design, Problem-Solving
+
+---
+
+## 📈 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrakib007&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakib007&layout=compact&theme=radical)
+
+---
+
+## 📫 How to Reach Me
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rakib1997)
+- Email: mrakibhasan199744@gmail.com
