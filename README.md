@@ -24,5 +24,5 @@
 ---
 
 ## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rakib1997)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rakib1997)
 - Email: mrakibhasan199744@gmail.com
