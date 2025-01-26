@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a **Software Engineer** at [BacBon Limited](https://bacbonltd.com).
 - 💻 I specialize in **JavaScript**, building interactive and user-friendly applications.
 - 🌱 I’m currently sharpening my skills in **Data Structures and Algorithms (DSA)**, using **C++**, and solving problems on LeetCode.
-- 👨‍💻 I have 1.6 years of professional experience and enjoy learning and growing as a developer.
+- 👨‍💻 I have 2 years of professional experience and enjoy learning and growing as a developer.
 - 📚 Passionate about coding, learning new technologies, and contributing to open-source projects.
 
 ---
