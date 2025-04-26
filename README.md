@@ -1,28 +1,38 @@
-# Hi there, I'm Rakib Hasan 👋
+# Hi, I'm Rakib Hasan 👋
 
 ## 🚀 About Me
-- 🔭 I’m currently working as a **Software Engineer** at [BacBon Limited](https://bacbonltd.com).
-- 💻 I specialize in **JavaScript**, building interactive and user-friendly applications.
-- 🌱 I’m currently sharpening my skills in **Data Structures and Algorithms (DSA)**, using **C++**, and solving problems on LeetCode.
-- 👨‍💻 I have 2 years of professional experience and enjoy learning and growing as a developer.
-- 📚 Passionate about coding, learning new technologies, and contributing to open-source projects.
+- 👨‍💻 Software Engineer at [BacBon Limited](https://bacbonltd.com)
+- 💻 JavaScript enthusiast crafting interactive, user-friendly applications
+- 📚 Currently leveling up my **DSA** skills with **C++** on LeetCode
+- 🛠️ 2+ years of professional experience building and growing with tech
+- 🌟 Passionate about learning, coding, and open-source contributions
 
 ---
 
-## 🛠️ Skills and Tools
-- **Languages**: JavaScript (ES6+), C++, HTML5, CSS3
-- **Frontend Frameworks**: React.js, Tailwind CSS
-- **Tools & Platforms**: Git, GitHub, VS Code, Figma
-- **Others**: REST APIs, Responsive Design, Problem-Solving
+## 🛠️ Tech Stack
+- **Languages:** JavaScript (ES6+), C++, HTML5, CSS3
+- **Frontend:** React.js, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code, Figma
+- **Other:** REST APIs, Responsive Design, Problem-Solving
 
 ---
 
-## 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrakib007&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakib007&layout=compact&theme=radical)
+## 📄 Resume
+- [View My Resume](https://drive.google.com/file/d/10Aq6b4UQ7QRJcNOX65Q4o7v_58tYWhOr/view?usp=sharing)
 
 ---
 
-## 📫 How to Reach Me
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rakib1997)
-- Email: mrakibhasan199744@gmail.com
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrakib007&show_icons=true&theme=radical" alt="Rakib's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrakib007&layout=compact&theme=radical" alt="Rakib's Top Languages" />
+</p>
+
+---
+
+## 📬 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/rakib1997)
+- [Email](mailto:mrakibhasan199744@gmail.com)
